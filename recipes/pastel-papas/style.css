@@ -16,12 +16,17 @@ img {
     float: left;
 }
 
-#Descripcion {
+.Descripcion {
     font-size: 25px;
-    color: rgba(153, 151, 7, 0.678);
+    color: rgba(95, 56, 4, 0.932)
 }
 
 .Des {
     font-size: 20px;
     font-weight: bold;
+}
+
+#Pasos {
+    font-size: 23px;
+    list-style: none;
 }
