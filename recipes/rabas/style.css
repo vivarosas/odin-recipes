@@ -1,27 +1,27 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-}
+    }
 
-#titulo {
+#Titulo {
     background-color: rgba(0, 0, 0, 0);
     text-align: center;
-    color: rgb(4, 82, 2);
+    color: rgba(153, 151, 7, 0.678);
     font-size: 50px;
     font-family: "Brush Script MT";
 }
 
 img {
     height: auto;
-    width: 400px;
+    width: 450px;
     float: left;
 }
 
 #Descripcion {
-    color: rgb(4, 82, 2);
     font-size: 25px;
+    color: rgba(153, 151, 7, 0.678);
 }
 
-.des {
+.Des {
+    font-size: 20px;
     font-weight: bold;
-    font-size: 19px;
 }
