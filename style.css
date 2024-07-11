@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+.bandera {
+    background-color: #ffffff;
+    text-align: center;
+    display: block;
+}
+
+.recetas {
+    background-color: #2dabca;
+    height: 33.33%;
+}
+
+.titulo {
+    height: 200px;
+    font-size: 50px;
+}
+
+.midel {
+    background-color: #ffffff;
+    height: 33.33%;
+}
+
+#remove {
+    margin: auto;
+}
+
+.lista {
+    background-color: #2dabca;
+    height: 33.33%;
+}
+
+.listas {
+    height: 200px;
+    font-size: 25px;
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
